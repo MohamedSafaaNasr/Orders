@@ -3,17 +3,19 @@
 ## FIRST STEPS TO RUN THE PROJECT
 1- Install Postgres 9.x and above.
 
-2- Install Sequelize-cli globally
+2- Install Node.js 12LTS or above.
 
-3- Install all packages for backend and frontned using this command-line: npm install, ./src/npm install [for Frontend]
+3- Install Sequelize-cli globally
 
-4- Install Hmail server and configure mail to be used in configurations [Optional]
+4- Install all packages for backend and frontned using this command-line: npm install, ./src/npm install [for Frontend]
 
-5- Configure .env files to be able to run server or deploy database.
+5- Install Hmail server and configure mail to be used in configurations [Optional]
 
-6- run migration to create database and tables this will be covered in next section
+6- Configure .env files to be able to run server or deploy database.
 
-7- run seeds to add data incase skipped step-3 to simulate with data and users.
+7- run migration to create database and tables this will be covered in next section
+
+8- run seeds to add data incase skipped step-3 to simulate with data and users.
 
 
 
