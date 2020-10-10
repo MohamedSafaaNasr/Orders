@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.868c6b5e.chunk.css",
+    "main.js": "/static/js/main.51e252f7.chunk.js",
+    "main.js.map": "/static/js/main.51e252f7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a7dc1534.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a7dc1534.js.map",
+    "static/css/2.db423336.chunk.css": "/static/css/2.db423336.chunk.css",
+    "static/js/2.6cd0a7db.chunk.js": "/static/js/2.6cd0a7db.chunk.js",
+    "static/js/2.6cd0a7db.chunk.js.map": "/static/js/2.6cd0a7db.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c15250f45d35d9d3bed7c5ca0659f5b8.js": "/precache-manifest.c15250f45d35d9d3bed7c5ca0659f5b8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.db423336.chunk.css.map": "/static/css/2.db423336.chunk.css.map",
+    "static/css/main.868c6b5e.chunk.css.map": "/static/css/main.868c6b5e.chunk.css.map",
+    "static/js/2.6cd0a7db.chunk.js.LICENSE.txt": "/static/js/2.6cd0a7db.chunk.js.LICENSE.txt",
+    "static/media/EButler_White_logo.png": "/static/media/EButler_White_logo.a330d34e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7dc1534.js",
+    "static/css/2.db423336.chunk.css",
+    "static/js/2.6cd0a7db.chunk.js",
+    "static/css/main.868c6b5e.chunk.css",
+    "static/js/main.51e252f7.chunk.js"
+  ]
+}

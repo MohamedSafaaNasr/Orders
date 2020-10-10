@@ -1,0 +1,29 @@
+2019-11-14 17:48:23,766 [1] INFO TestPen.Program - Making Connection by Server=127.0.0.1;Port=5433; User Id=postgres;Password=P@ssw0rd;Database=cardReader;
+2019-11-14 17:48:23,865 [1] DEBUG TestPen.Program - *********************************** Start new thread ***********************************
+2019-11-14 17:48:25,108 [1] INFO TestPen.Program - will start process batch 1
+2019-11-14 17:48:25,109 [1] DEBUG TestPen.Utility - Read all images in C:\DocuRepo\20191014132007-Batch\1 with format *.jpg
+2019-11-14 17:48:25,135 [1] ERROR TestPen.Utility - Error while open file: C:\DocuRepo\20191014132007-Batch\1\1.jpg 
+ Parameter is not valid.
+ Stack    at System.Drawing.Bitmap..ctor(String filename)
+   at TestPen.Utility.OpenFile(String fileName) in C:\Users\Dell\source\repos\TestPen\TestPen\Utility.cs:line 55
+2019-11-14 17:48:25,136 [1] INFO TestPen.Program - will start process batch 3
+2019-11-14 17:48:25,136 [1] DEBUG TestPen.Utility - Read all images in C:\DocuRepo\20191014132007-Batch\3 with format *.jpg
+2019-11-14 17:48:25,136 [1] DEBUG TestPen.Utility - C:\DocuRepo\20191014132007-Batch\3 is not exist
+2019-11-14 17:48:25,136 [1] INFO TestPen.Program - will start process batch 4
+2019-11-14 17:48:25,136 [1] DEBUG TestPen.Utility - Read all images in C:\DocuRepo\20191014132007-Batch\4 with format *.jpg
+2019-11-14 17:48:25,136 [1] DEBUG TestPen.Utility - C:\DocuRepo\20191014132007-Batch\4 is not exist
+2019-11-14 17:48:25,136 [1] DEBUG TestPen.Program - *********************************** Wait for 1 min ***********************************
+2019-11-14 17:49:25,138 [1] DEBUG TestPen.Program - *********************************** Start new thread ***********************************
+2019-11-14 17:49:25,139 [1] INFO TestPen.Program - will start process batch 1
+2019-11-14 17:49:25,139 [1] DEBUG TestPen.Utility - Read all images in C:\DocuRepo\20191014132007-Batch\1 with format *.jpg
+2019-11-14 17:49:25,140 [1] ERROR TestPen.Utility - Error while open file: C:\DocuRepo\20191014132007-Batch\1\1.jpg 
+ Parameter is not valid.
+ Stack    at System.Drawing.Bitmap..ctor(String filename)
+   at TestPen.Utility.OpenFile(String fileName) in C:\Users\Dell\source\repos\TestPen\TestPen\Utility.cs:line 55
+2019-11-14 17:49:25,140 [1] INFO TestPen.Program - will start process batch 3
+2019-11-14 17:49:25,140 [1] DEBUG TestPen.Utility - Read all images in C:\DocuRepo\20191014132007-Batch\3 with format *.jpg
+2019-11-14 17:49:25,140 [1] DEBUG TestPen.Utility - C:\DocuRepo\20191014132007-Batch\3 is not exist
+2019-11-14 17:49:25,141 [1] INFO TestPen.Program - will start process batch 4
+2019-11-14 17:49:25,141 [1] DEBUG TestPen.Utility - Read all images in C:\DocuRepo\20191014132007-Batch\4 with format *.jpg
+2019-11-14 17:49:25,141 [1] DEBUG TestPen.Utility - C:\DocuRepo\20191014132007-Batch\4 is not exist
+2019-11-14 17:49:25,142 [1] DEBUG TestPen.Program - *********************************** Wait for 1 min ***********************************
