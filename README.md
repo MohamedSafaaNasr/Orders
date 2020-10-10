@@ -5,13 +5,15 @@
 
 2- Install Sequelize-cli globally
 
-3- Install Hmail server and configure mail to be used in configurations [Optional]
+3- Install all packages for backend and frontned using this command-line: npm install, ./src/npm install [for Frontend]
 
-4- Configure .env files to be able to run server or deploy database.
+4- Install Hmail server and configure mail to be used in configurations [Optional]
 
-5- run migration to create database and tables this will be covered in next section
+5- Configure .env files to be able to run server or deploy database.
 
-6- run seeds to add data incase skipped step-3 to simulate with data and users.
+6- run migration to create database and tables this will be covered in next section
+
+7- run seeds to add data incase skipped step-3 to simulate with data and users.
 
 
 
